@@ -1,0 +1,4 @@
+
+var template = <h1>Indecision App </h1><p>This is some info</p>;
+
+ReactDom.render(template, appRoot);
